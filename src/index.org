@@ -33,20 +33,17 @@
 |---------+--------------------------------------------------------------------------------------------------------------------------|
 |   16:45 | /Fin de la journée/                                                                                                      |
 
-* Informations
+* Comment Venir ?
 
 La journée d'étude aura lieu au Géoroom de l'IGN, 8 avenue Pasteur, 94 160 Saint-Mandé.
 
-Pour venir au Géoroom:
+Accès :
 - En métro: Stations [[https://fr.wikipedia.org/wiki/Saint-Mand%C3%A9_(m%C3%A9tro_de_Paris)][/Saint-Mandé/]] ou [[https://fr.wikipedia.org/wiki/B%C3%A9rault_(m%C3%A9tro_de_Paris)][/Bérault/]] sur la ligne 1
 - En RER: Station /[[https://fr.wikipedia.org/wiki/Gare_de_Vincennes][Vincennes]]/ sur la ligne A
 - En Bus:
   - Arrêt /Aubert/ sur la [[https://www.ratp.fr/plans-lignes/busratp/56][ligne 56]]
   - Arrêt /Aubert/ sur la [[https://www.ratp.fr/plans-lignes/busratp/326][ligne 325]]
 - Velib: Une station de Velib est a proximité
-
-
-
 
 #+BEGIN_EXPORT html
 <iframe width="100%" height="350"
