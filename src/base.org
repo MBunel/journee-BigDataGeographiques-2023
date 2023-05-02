@@ -1,0 +1,40 @@
+#+Macro: fname Mattia
+#+Macro: lname Bunel
+#+Macro: me {{{fname}}} {{{lname}}}
+#+Macro: halid mattia-bunel
+
+#+OPTIONS: html-style:nil html5-fancy:t html-style-include-scripts:nil 
+#+OPTIONS: title:t toc:nil num:nil html-postamble:nil
+#+HTML_DOCTYPE: xhtml5
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./static/org.css"/>
+
+
+#+AUTHOR: {{{me}}}
+#+TITLE: Journée d'étude Big Data et données spatialisées
+#+DESCRIPTION: Web page of {{{me}}}
+
+
+#+BEGIN_abstract
+Le Jeudi 29 Juin 2023 (10h-16h), au Géoroom (Saint-Mandé)
+#+END_abstract
+
+#+BEGIN_CENTER
+*Inscription obligatoire*
+#+END_CENTER
+
+
+#+attr_html: :style font-size:small; margin-bottom:2.5em;
+#+begin_div
+
++ Mail : mailto:mattia.bunel@ign.fr
++ GPG key : [[file:static/public-key.txt]]
++ FoafMe : [[file:static/foaf.rdf]]
++ Twitter: https://twitter.com/mattiabunel
++ GitHub : https://github.com/MBunel
++ OCRID : https://orcid.org/0000-0001-7751-3507
++ Research Gate : https://www.researchgate.net/profile/Mattia-Bunel
++ HAL : https://cv.archives-ouvertes.fr/mattia-bunel
+#+end_div
+
+
