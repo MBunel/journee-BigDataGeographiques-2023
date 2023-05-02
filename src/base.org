@@ -10,17 +10,22 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./static/org.css"/>
 
 
-#+AUTHOR: {{{me}}}
 #+TITLE: Journée d'étude Big Data et données spatialisées
-#+DESCRIPTION: Web page of {{{me}}}
+#+DESCRIPTION: Page de la journée d'étude sur les big data spatialisées du 29 juin 2023
 
+[[file:./static/bandeau.jpg]]
 
-#+BEGIN_abstract
-Le Jeudi 29 Juin 2023 (10h-16h), au Géoroom (Saint-Mandé)
-#+END_abstract
 
 #+BEGIN_CENTER
-*Inscription obligatoire*
+/Le Jeudi 29 Juin 2023 (10h-16h), au Géoroom (Saint-Mandé)/
 #+END_CENTER
 
+#+BEGIN_CENTER
+*[[https://framaforms.org/participation-a-la-journee-detudes-big-data-et-donnees-spatialisees-1682587035][Inscription obligatoire]]*
+#+END_CENTER
+
+#+BEGIN_abstract
+
+
+#+END_abstract
 
