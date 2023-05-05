@@ -2,27 +2,8 @@
 #+OPTIONS: title:t toc:nil num:nil html-postamble:nil
 #+HTML_DOCTYPE: xhtml5
 
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./static/org.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./static/org_2.css"/>
+#+LANGUAGE:fr
 
-
-#+TITLE: Journée d'étude Big Data et données spatialisées
-#+DESCRIPTION: Page de la journée d'étude sur les big data spatialisées du 29 juin 2023
-
-#+BEGIN_CENTER
-/Le Jeudi 29 Juin 2023 (10h-16h), au Géoroom (Saint-Mandé)/
-#+END_CENTER
-
-[[file:./static/bandeau.jpg]]
-
-#+BEGIN_abstract
-Le but de cette journée d'étude, co-organisée par l'UMR LaSTIG et
-l'IGN, est de favoriser les échanges entre la communauté académique,
-les industriels et les institutions publiques autour de la thématique
-des Big Data spatialisées.
-#+END_abstract
-
-#+BEGIN_CENTER
-*[[https://framaforms.org/participation-a-la-journee-detudes-big-data-et-donnees-spatialisees-1682587035][Inscription obligatoire]]*
-#+END_CENTER
 
 

@@ -1,0 +1,31 @@
+#+INCLUDE: "base.org"
+#+TITLE: Programme
+
+| Horaire | Description                                                                                                                    |
+|---------+--------------------------------------------------------------------------------------------------------------------------------|
+|    9:00 | /Accueil des participants/                                                                                                     |
+|---------+--------------------------------------------------------------------------------------------------------------------------------|
+|   10:00 | Keynote: *Julien Peloton* (CNRS, IJCLab), /Fink: cartographie de l'Univers en temps réel avec le framework Apache Spark/       |
+|---------+--------------------------------------------------------------------------------------------------------------------------------|
+|   11:00 | /Pause/                                                                                                                        |
+|---------+--------------------------------------------------------------------------------------------------------------------------------|
+|   11:15 | *Maziyar Panahi* (CNRS, UPS ISC-PIF), /Titre à venir/ (*à confirmer*)                                                          |
+|   11:45 | *Valentin Sasyan* (IGN), /Titre à venir/                                                                                       |
+|   12:15 | *Laurent Caraffa*, *Mathieu Brédif* (IGN, UMR LaSTIG), /Titre à venir/                                                         |
+|---------+--------------------------------------------------------------------------------------------------------------------------------|
+|   12:45 | /Pause déjeuner/                                                                                                               |
+|---------+--------------------------------------------------------------------------------------------------------------------------------|
+|   13:30 | *Daniel Girardeau* (), /Présentation de CloudCompare, projet Open Source pour le traitement des nuages de points 3D/           |
+|   14:00 | *Gatien Ferret* (Kitware Europe), /LidarView : A Paraview based application for Lidar data Visualization and Processing/       |
+|---------+--------------------------------------------------------------------------------------------------------------------------------|
+|   14:30 | /Pause/                                                                                                                        |
+|---------+--------------------------------------------------------------------------------------------------------------------------------|
+|   14:45 | *Juste Raimbault* (IGN, UMR LaSTIG), /Exploration et validation des modèles de simulation avec la plateforme ouverte OpenMOLE/ |
+|   15:15 | *Mattia Bunel* (IGN), /Titre à venir/                                                                                          |
+|   15:45 | *à confirmer*                                                                                                                  |
+|---------+--------------------------------------------------------------------------------------------------------------------------------|
+|   16:15 | /Fin de la journée/                                                                                                            |
+
+#+BEGIN_CENTER
+[[file:index.org][(Page d'accueil)]]
+#+END_CENTER

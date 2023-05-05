@@ -1,0 +1,9 @@
+#+INCLUDE: "base.org"
+#+TITLE: Contacts
+
+- [[https://www.umr-lastig.fr/mattia-bunel/][*Mattia Bunel*]] (IGN), mattia.bunel(at)ign.fr 
+- [[https://www.umr-lastig.fr/laurent-caraffa/][*Laurent Caraffa*]] (IGN UMR LaSTIG), laurent.caraffa(at)ign.fr 
+
+#+BEGIN_CENTER
+[[file:index.org][(Page d'accueil)]]
+#+END_CENTER
