@@ -2,7 +2,7 @@
 #+OPTIONS: title:t toc:nil num:nil html-postamble:nil
 #+HTML_DOCTYPE: xhtml5
 
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./static/org_2.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./static/my_style.css"/>
 #+LANGUAGE:fr
 
 

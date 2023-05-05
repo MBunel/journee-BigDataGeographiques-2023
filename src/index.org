@@ -12,8 +12,7 @@
 /Le Jeudi 29 Juin 2023 (10h-16h), au Géoroom (Saint-Mandé)/
 #+END_CENTER
 
-[[file:./static/bandeau.jpg]]
-
+[[file:./static/Bandeau.svg]]
 
 #+BEGIN_abstract
 Le but de cette journée d'étude, co-organisée par l'UMR LaSTIG et
