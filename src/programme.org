@@ -9,9 +9,9 @@
 |---------+--------------------------------------------------------------------------------------------------------------------------------|
 |   11:00 | /Pause/                                                                                                                        |
 |---------+--------------------------------------------------------------------------------------------------------------------------------|
-|   11:15 | *Maziyar Panahi* (CNRS, UPS ISC-PIF), /Titre à venir/ (*à confirmer*)                                                          |
+|   11:15 | *Maziyar Panahi* (CNRS, UPS ISC-PIF), /Titre à venir/                                                                          |
 |   11:45 | *Valentin Sasyan* (IGN), /Titre à venir/                                                                                       |
-|   12:15 | *Laurent Caraffa*, *Mathieu Brédif* (IGN, UMR LaSTIG), /Titre à venir/                                                         |
+|   12:15 | *Laurent Caraffa*, *Mathieu Brédif* (IGN, UMR LaSTIG), /Distribued Delaunay Triangulation/                                     |
 |---------+--------------------------------------------------------------------------------------------------------------------------------|
 |   12:45 | /Pause déjeuner/                                                                                                               |
 |---------+--------------------------------------------------------------------------------------------------------------------------------|
@@ -21,10 +21,11 @@
 |   14:30 | /Pause/                                                                                                                        |
 |---------+--------------------------------------------------------------------------------------------------------------------------------|
 |   14:45 | *Juste Raimbault* (IGN, UMR LaSTIG), /Exploration et validation des modèles de simulation avec la plateforme ouverte OpenMOLE/ |
-|   15:15 | *Mattia Bunel* (IGN), /Titre à venir/                                                                                          |
-|   15:45 | *à confirmer*                                                                                                                  |
+|   15:15 | *Mattia Bunel* (IGN), /Spark et son écosystème pour le traitement distribué de données lidar/                                  |
 |---------+--------------------------------------------------------------------------------------------------------------------------------|
-|   16:15 | /Fin de la journée/                                                                                                            |
+|   15:45 | *Conclusion de la journée*                                                                                                     |
+
+
 
 #+BEGIN_CENTER
 [[file:index.org][(Page d'accueil)]]
