@@ -10,7 +10,7 @@
 |   11:00 | /Pause/                                                                                                                        |
 |---------+--------------------------------------------------------------------------------------------------------------------------------|
 |   11:15 | *Maziyar Panahi* (CNRS, UPS ISC-PIF), /Titre à venir/                                                                          |
-|   11:45 | *Valentin Sasyan* (IGN), /Titre à venir/                                                                                       |
+|   11:45 | *Valentin Sasyan* (IGN), /Industrialisation de la classification du Lidar HD à l'IGN/                                          |
 |   12:15 | *Laurent Caraffa*, *Mathieu Brédif* (IGN, UMR LaSTIG), /Distribued Delaunay Triangulation/                                     |
 |---------+--------------------------------------------------------------------------------------------------------------------------------|
 |   12:45 | /Pause déjeuner/                                                                                                               |
