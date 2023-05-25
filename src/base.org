@@ -4,6 +4,3 @@
 
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./static/my_style.css"/>
 #+LANGUAGE:fr
-
-
-
