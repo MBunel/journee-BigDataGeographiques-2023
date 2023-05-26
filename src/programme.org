@@ -9,7 +9,7 @@
 |---------+--------------------------------------------------------------------------------------------------------------------------------------------------|
 |   11:00 | /Pause/                                                                                                                                          |
 |---------+--------------------------------------------------------------------------------------------------------------------------------------------------|
-|   11:15 | *Maziyar Panahi* (CNRS, UPS ISC-PIF), /Titre à venir/                                                                                            |
+|   11:15 | *Maziyar Panahi* (CNRS, UPS ISC-PIF), /Multivac Platform: Unified Big Data Analytics Platform/                                                   |
 |   11:45 | *Valentin Sasyan* (IGN), /Industrialisation de la classification du Lidar HD à l'IGN/                                                            |
 |   12:15 | *Laurent Caraffa* (IGN, UMR LaSTIG), *Mathieu Brédif* (IGN, UMR LaSTIG), /Tile & merge: Distributed delaunay triangulations for cloud computing/ |
 |---------+--------------------------------------------------------------------------------------------------------------------------------------------------|
