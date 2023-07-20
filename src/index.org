@@ -22,7 +22,7 @@ des Big Data spatialisées.
 #+END_abstract
 
 #+BEGIN_CENTER
-*[[https://framaforms.org/participation-a-la-journee-detudes-big-data-et-donnees-spatialisees-1682587035][Inscription obligatoire]]*
+*[[file:presentations.org][Captations vidéo et supports de présentations]]*
 #+END_CENTER
 
 
