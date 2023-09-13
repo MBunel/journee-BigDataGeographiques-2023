@@ -2,17 +2,17 @@
 #+TITLE: Captations vidéo et supports de présentations
 
 
-| Intervention                                                                                                                                     | Support de présentation                                              | Captation vidéo |
-|--------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------+-----------------|
-| *Julien Peloton* (CNRS, IJCLab), /Fink: cartographie de l'Univers en temps réel avec le framework Apache Spark/                                  | [[file:./static/presentations/P1_JPeloton.pdf][JPeloton.pdf]]        | /À venir/       |
-| *Maziyar Panahi* (CNRS, UPS ISC-PIF), /Multivac Platform: Unified Big Data Analytics Platform/                                                   | [[file:./static/presentations/P2_MPanahi.pdf][MPanahi.pdf]]          | /À venir/       |
-| *Valentin Sasyan* (IGN), /Industrialisation de la classification du Lidar HD à l'IGN/                                                            | [[file:./static/presentations/P3_VSasyan.pdf][VSasyan.pdf]]          | /À venir/       |
-| *Laurent Caraffa* (IGN, UMR LaSTIG), *Mathieu Brédif* (IGN, UMR LaSTIG), /Tile & merge: Distributed delaunay triangulations for cloud computing/ | [[file:./static/presentations/P4_LCaraffa_MBredif.pdf][MBredif.pdf]] | /À venir/       |
-| *Daniel Girardeau* (Créateur de CloudCompare), /Présentation de CloudCompare, projet Open Source pour le traitement des nuages de points 3D/     | [[file:./static/presentations/P5_DGirardeau.pdf][DGirardeau.pdf]]    | /À venir/       |
-| *Gatien Ferret* (Kitware Europe), /LidarView : A Paraview based application for Lidar data Visualization and Processing/                         | [[file:./static/presentations/P6_GFerret.pdf][GFerret.pdf]]          | /À venir/       |
-| *Juste Raimbault* (IGN, UMR LaSTIG), /Exploration et validation des modèles de simulation avec la plateforme ouverte OpenMOLE/                   | [[file:./static/presentations/P7_JRaimbault.pdf][JRaimbault.pdf]]    | /À venir/       |
-| *Mattia Bunel* (IGN), /Spark et son écosystème pour le traitement distribué de données lidar/                                                    | [[file:./static/presentations/P8_MBunel.pdf][MBunel.pdf]]            | /À venir/       |
-|--------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------+-----------------|
+| Intervention                                                                                                                                     | Support de présentation | Captation vidéo              |
+|--------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+------------------------------|
+| *Julien Peloton* (CNRS, IJCLab), /Fink: cartographie de l'Univers en temps réel avec le framework Apache Spark/                                  | [[file:./static/presentations/P1_JPeloton.pdf][JPeloton.pdf]]            | [[https://youtu.be/hkOmC9-nRMw]] |
+| *Maziyar Panahi* (CNRS, UPS ISC-PIF), /Multivac Platform: Unified Big Data Analytics Platform/                                                   | [[file:./static/presentations/P2_MPanahi.pdf][MPanahi.pdf]]             | [[https://youtu.be/O1XzbvH6LHc]] |
+| *Valentin Sasyan* (IGN), /Industrialisation de la classification du Lidar HD à l'IGN/                                                            | [[file:./static/presentations/P3_VSasyan.pdf][VSasyan.pdf]]             | https://youtu.be/eG0IOEEM2LQ |
+| *Laurent Caraffa* (IGN, UMR LaSTIG), *Mathieu Brédif* (IGN, UMR LaSTIG), /Tile & merge: Distributed delaunay triangulations for cloud computing/ | [[file:./static/presentations/P4_LCaraffa_MBredif.pdf][MBredif.pdf]]             | https://youtu.be/EEmsugbRBWc |
+| *Daniel Girardeau* (Créateur de CloudCompare), /Présentation de CloudCompare, projet Open Source pour le traitement des nuages de points 3D/     | [[file:./static/presentations/P5_DGirardeau.pdf][DGirardeau.pdf]]          | https://youtu.be/7Zu1guVLRlE |
+| *Gatien Ferret* (Kitware Europe), /LidarView : A Paraview based application for Lidar data Visualization and Processing/                         | [[file:./static/presentations/P6_GFerret.pdf][GFerret.pdf]]             | https://youtu.be/DaMdumuY7Io |
+| *Juste Raimbault* (IGN, UMR LaSTIG), /Exploration et validation des modèles de simulation avec la plateforme ouverte OpenMOLE/                   | [[file:./static/presentations/P7_JRaimbault.pdf][JRaimbault.pdf]]          | https://youtu.be/5q9YZA9xWjE |
+| *Mattia Bunel* (IGN), /Spark et son écosystème pour le traitement distribué de données lidar/                                                    | [[file:./static/presentations/P8_MBunel.pdf][MBunel.pdf]]              | https://youtu.be/OO0KVNaH9Z8 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+------------------------------|
 
 #+BEGIN_CENTER
 [[file:index.org][(Page d'accueil)]]
